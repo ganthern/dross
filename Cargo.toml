@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["ganthern <nils.ganther@stud.hs-hannover.de>"]
 license = "MIT"
 readme = "README.md"
+description = "dross"
 repository = "https://github.com/ganthern/dross"
 homepage = "https://github.com/ganthern/dross"
 edition = "2018"
